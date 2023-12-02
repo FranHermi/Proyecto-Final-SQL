@@ -1,0 +1,10 @@
+Orden ejecucion archivos:
+1) 00_Tablas_Campos_Productos
+2) 01_Triggers
+3) 02_Stored_Procedures
+4) 03_Insert
+5) 04_Views
+6) 05_Functions
+7) 06_Cracion Usuarios
+8) Abrir el archivo 07_TCL
+9) 08_DER
